@@ -44,4 +44,4 @@ The [zipproj](https://github.com/Xmexy/beginnerprojects/tree/main/zipproj) is a 
 
 ## Excel Mini Projects
 
-The [Excel_Mini_Projs]()
+The [Excel_Mini_Projs](https://github.com/Xmexy/python-beginner-projects/tree/main/Excel_Mini_Projs) is a collection of projects based around the openpyxl module, using OpenOffice as my harbor for Excel SpreadSheets. 
