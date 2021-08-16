@@ -5,7 +5,7 @@ import openpyxl, pprint
 from pathlib import Path
 
 print('Opening workbook...')
-wb = openpyxl.load_workbook('censuspopdata.xlsx')
+wb = openpyxl.load_workbook(f'{Path.home()}\\VSCPythonProjects\\Excel_Mini_Projs\\xlsx_files\\censuspopdata.xlsx')
 sheet = wb['Population by Census Tract']
 county_data = {}
 

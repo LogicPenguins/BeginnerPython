@@ -42,3 +42,6 @@ Similar to [exercisesATBSWP](https://github.com/Xmexy/beginnerprojects/tree/main
 
 The [zipproj](https://github.com/Xmexy/beginnerprojects/tree/main/zipproj) is a folder that contains a collection of 4 different variations of a main goal, which was to turn contents of a parent folder and all of it's sub-folders and files into a compressed ZIP file. Each project inside the zipproj folder serves it's own purpose. 
 
+## Excel Mini Projects
+
+The [Excel_Mini_Projs]()
