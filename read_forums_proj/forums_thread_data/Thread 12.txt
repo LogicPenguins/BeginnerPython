@@ -1,0 +1,10 @@
+Thread Title: No ender dragon in end but has crystals
+Thread Author: minehackercraft
+
+--------------------------------------------------
+
+Comment: 
+
+Hello , I have been playing my hardcore world recently , when I went in the end , there are end crystals , but there is no ender dragon , the bedrock portal didn't appear either , when i tryed to use creative and summon the dragon , didnt work as well , is there a way to fix this ? I also tried to delete the DIM1 folder which is the end folder and put the end files that has dragon , but nothing happened , i also tried to upload into different multiplayer server like aternos and minehut , none of them work , using 1.17.1 , please help !
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

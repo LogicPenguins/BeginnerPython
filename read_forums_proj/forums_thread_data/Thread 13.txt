@@ -1,0 +1,65 @@
+Thread Title: I found an Aether Portal and other player activity on a 1.12.2 customized singleplayer world. What's going on(question-mark)
+Thread Author: Guitarguy121236
+
+--------------------------------------------------
+
+Comment: 
+
+Earlier today I decided to create a customized world to see how wacky they can get. I loaded up the world and was in a lava ocean, which was one of the things I had it set to. I also had it set to Y=76 for ocean level, meaning most of the world was covered in lava. Exactly what I wanted.
+
+I wandered around for a little bit to see what I could find in the crazy world, when I found a sudden stop in the lava ocean. It was a square chunk of land just larger than my render distance (~20 chunks). I thought it was weird and decided to explore the area. 
+
+In this chunk of land which I believe was corrupted because of the generation of the lava and because when I recreated the world I couldn't find anything, only lava ocean and when I went into spectator the terrain under the lava was totally different. The Y level was 30 blocks lower than it was on the corrupted world. I found a Desert Temple with the trap which had already been set off, leaving a huge crater. another thing I noticed was that the blue terracotta was missing, as if a player broke the block and fell through into the trap.
+
+Next to the temple I noticed a Glowstone portal on hill, (older players will recognize it as an Aether Portal) and decided to check it out. Both the portal and the temple were in the middle of the corrupted chunks. Why did this happen?
+
+I have no idea what could have been the cause of this. I rarely play multiplayer and have never hosted a server or LAN world. There were no other players in the world and I double checked that I was in singleplayer. I have never seen anything like this in my 9 years of playing this game. Has my account been hacked? Should I keep the world? Can someone please tell me what's going on?
+P.S. I have attached some of the screenshots I took on the world, one of which has the seed and coordinates. However, you will find nothing there like I said earlier.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+Screen Shot 2021-08-05 at 3.55.21 PM
+
+
+
+
+
+
+
+Screen Shot 2021-08-05 at 3.55.43 PM
+
+
+
+
+
+
+
+Screen Shot 2021-08-05 at 3.58.46 PM
+
+
+
+
+
+
+
+Screen Shot 2021-08-05 at 8.55.11 PM
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: DuhDerp
+Comment: 
+
+What likely happened is you had an older world that had the same name as this current one. Sometimes Minecraft doesn't delete stuff properly and you will have little leftover files. Since it's the same worldname, these files will have the same naming scheme and the game won't be able to tell the difference between a file that was supposed to be deleted versus not.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

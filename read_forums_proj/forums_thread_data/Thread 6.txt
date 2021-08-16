@@ -1,0 +1,42 @@
+Thread Title: Master Fisherman wont unlock some if his trades
+Thread Author: ellyama
+
+--------------------------------------------------
+
+Comment: 
+
+Minecraft java 1.17
+My Master Fisherman is in a trading Hall. He has had 3 trades now that have been locked for days. 
+I've no idea what to do. I've tried removing his barrel and replacing it. Nothing
+All his other trades are still open tho. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Palin
+Comment: 
+
+Have he access to a bed? Can he trace his path to a bed that it's not used by other villagers? The best way to answer is trying to visiting the villager at night time and see if he can go to sleep. He needs to sleep to get back his trades.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: ellyama
+Comment: 
+
+Trading hall villagers don't need beds. They are just for trading. Mine all have their work stations. They are all Masters. Beds are for villagers to breed.
+They are also visible to the other villagers on either side because they like to gossip. 
+
+I appreciate your input though. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Palin
+Comment: 
+
+Quote from ellyama»
+Trading hall villagers don't need beds. They are just for trading. Mine all have their work stations. They are all Masters. Beds are for villagers to breed.
+They are also visible to the other villagers on either side because they like to gossip.
+
+
+ That's what's on the wiki. But in my experience not being able to go to sleep is a major reason for not restocking. Expecially on servers where the normal day/night cycle is skipped most of the times (villagers restock twice a day but if you skip the night something occurs and most of the time the restock does not happen).
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

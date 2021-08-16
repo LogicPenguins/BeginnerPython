@@ -1,0 +1,78 @@
+Thread Title: corner stairs not aligning proplerly
+Thread Author: AWildChewie
+
+--------------------------------------------------
+
+Comment: 
+
+I'm trying to build pillars in a cave, and corner stairs wont align properly. I reproduced this issue in creative. Any Idea to fix this?
+Images in attachments.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+Without Stair.
+
+
+
+
+
+
+
+With stair, orientation 1
+
+
+
+
+
+
+
+With stair, orientation 2
+
+
+
+
+
+
+
+With stair, orientation 3
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: waxenorchid811
+Comment: 
+
+ You're clocking it the wrong way, you want to click the top half of either stairs you're connecting it to.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: AWildChewie
+Comment: 
+
+I did that, the result was the situation in Pictures 2 and 4
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: DuhDerp
+Comment: 
+
+This happens because your stairs are too close to each other AND the two stairs that happen to be adjacent to each other are also oriented in a corner-wrapping way relative to their outside neighbors. Only one of the stairs connections will take precedence (probably has something to do with the coordinate system instead of which block was placed first). You can perhaps try to fiddle with other stairs in the sequence to try seeing if it fixes itself, but most of the time you will just have to carve out more space.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: AWildChewie
+Comment: 
+
+thanks for the reply. I dont know why, but after a few hours, i tried again and it aligned properly this time. pretty weird tbh
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

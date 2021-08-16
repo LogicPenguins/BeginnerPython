@@ -1,0 +1,2 @@
+2021-08-04 16:46:00,949 - DEBUG - Toss value is: 1
+2021-08-12 20:01:16,749 - DEBUG - Toss value is: 1

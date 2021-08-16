@@ -1,0 +1,27 @@
+Thread Title: Transferring Save Files
+Thread Author: Fr3ak5h0w
+
+--------------------------------------------------
+
+Comment: 
+
+Hi everyone, I'm Mike and I have a question:
+
+I created my first MC world and I've been working on it for days, only to realize I created it on my daughter's account. Is it possible to create my own account and transfer that saved world from her account to mine so that I can continue working on it on my own account?
+
+Thanks in advance - 
+
+Mike Fr3ak5h0w
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TileEntity
+Comment: 
+
+On Minecraft Java you can find your saves at:
+
+C:\Users\NAME\AppData\Roaming\.minecraft\saves\
+
+If you change your account, the save location keeps the same
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

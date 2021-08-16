@@ -1,0 +1,12 @@
+Thread Title: Copy bounding box
+Thread Author: jerry_redstone
+
+--------------------------------------------------
+
+Comment: 
+
+Any one knows a way to copy bounding box.
+Can be mod(fabric is better) or datapack.
+Cause I wanna test 4x witch farm but I can't find one.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

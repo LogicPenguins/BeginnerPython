@@ -1,0 +1,17 @@
+Thread Title: Minecraft.net.Mojang Login Site offline(question-mark)
+Thread Author: Moduartor
+
+--------------------------------------------------
+
+Comment: 
+
+I wanna login to minecraft.net, but everytime the server is connecting to my profile, the site crash. Do you also experience this error and if so, for how long?
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TileEntity
+Comment: 
+
+Test it with another browser or with another device (mobile phone)
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

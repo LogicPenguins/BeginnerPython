@@ -1,0 +1,24 @@
+Thread Title: (backwards-slash)Silence Me(backwards-slash) tag not working
+Thread Author: ellyama
+
+--------------------------------------------------
+
+Comment: 
+
+Minecraft Java 1.17
+I've used it to silence a tamed cat, but it still makes sounds. 
+No idea why it's not working
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Tails1
+Comment: 
+
+Quote from ellyama»
+Minecraft Java 1.17
+I've used it to silence a tamed cat, but it still makes sounds.
+No idea why it's not working
+
+ That's not a vanilla feature. You're either using mods or data packs. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.

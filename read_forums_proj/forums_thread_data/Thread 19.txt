@@ -1,0 +1,19 @@
+Thread Title: Extra explosion particles removed(question-mark)
+Thread Author: 4zy1
+
+--------------------------------------------------
+
+Comment: 
+
+Since 1.15 pre-release 1, the extra explosion particles have been disabled or no longer render.
+Any chance it'll be fixed/re-added?
+https://bugs.mojang.com/browse/MC-165991
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Tails1
+Comment: 
+
+You will have to ask Mojang. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
