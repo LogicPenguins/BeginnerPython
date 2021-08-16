@@ -4,6 +4,8 @@
 
 import pyinputplus as pyip
 import sys
+import random
+import time
 
 print(f"\n{('━' * 140)}\n{(' ' * 60)}Tic-Tac-Toe\n{('━' * 140)}\n")
 
@@ -22,16 +24,16 @@ def board_print(board_param):
     print('-+-+-')
     print(f"{board_param['7']}|{board_param['8']}|{board_param['9']}")
 
-
-def handle_turn(player, board_param):
+# This function will take either 'x' or 'o' as the player and board as parameter. This function will allow input from a human player
+def handle_player(player, board_param):
     print(f"It is {player}'s turn. Please choose a number from 1-9 on a non-claimed square.")
     player_turn_done = False
 
     while player_turn_done != True:
         try:
-            move = pyip.inputInt('Move: ', min=1, max=9, timeout=60)
-            if board_param[f'{move}'] == ' ':
-                board_param[f'{move}'] = player
+            player_move = pyip.inputInt('Move: ', min=1, max=9, timeout=60)
+            if board_param[f'{player_move}'] == ' ':
+                board_param[f'{player_move}'] = player
                 player_turn_done = True
             else:
                 print('That square is already taken! Try again.')
@@ -41,8 +43,19 @@ def handle_turn(player, board_param):
             print('Input took too long to receive. Please restart the program.')
             sys.exit()
 
-def check_for_winner(board_param, player):
+# This function will take either 'x' or 'o' as the player and board as parameter. This function will automatically play as AI
+def handle_ai(player, board_param):
+  player_turn_done = False
 
+  while player_turn_done != True:
+    ai_move = random.randint(1, 9)
+    if board_param[f'{ai_move}'] == ' ':
+      board_param[f'{ai_move}'] = player
+      player_turn_done = True
+    else:
+      continue
+
+def check_for_winner(board_param, player):
     # Horizontal win for first row
     if board_param['1'] == player:
       if board_param['2'] == player:
@@ -104,25 +117,27 @@ board_print(board)
 # Tracker for how many turns have been taken
 turns_taken = 0
 
-# Main game loop
+# Main game loop (currently both set to AI. Calling the function handle_player rather than handle_ai will allow players to participate)
 while True:
 
     # X goes first. Handle X's turn. 
-    handle_turn('X', board)
+    handle_ai('X', board)
     turns_taken += 1
     board_print(board)
     check_for_winner(board, 'X')
 
     if turns_taken == 9:
         break
+    time.sleep(1)
 
     # O goes second. Handle O's turn. 
-    handle_turn('O', board)
+    handle_ai('O', board)
     turns_taken += 1
     board_print(board)
     check_for_winner(board, 'O')
 
     if turns_taken == 9:
         break
+    time.sleep(1)
 
 print('Game over. No one won.')
