@@ -7,11 +7,11 @@ from pathlib import Path
 from openpyxl.utils import get_column_letter
 import logging
 
-log_file = f'{Path.home()}\\VSCPythonProjects\\Excel_Mini_Projs\\logs\\log_file.txt'
+log_file = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\logs\\log_file.txt'
 logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 print('Opening workbook...')
-wb = openpyxl.load_workbook(f'{Path.home()}\\VSCPythonProjects\\Excel_Mini_Projs\\xlsx_files\\random.xlsx')
+wb = openpyxl.load_workbook(f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\random.xlsx')
 
 sheet = wb['Sheet1']
 

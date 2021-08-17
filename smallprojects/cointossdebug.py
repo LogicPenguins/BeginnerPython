@@ -2,7 +2,7 @@ import random
 import logging
 from pathlib import Path
 
-coinlogs_debug = Path(f'{Path.home()}\\VSCPythonProjects\\logs\\coinlogs.txt')
+coinlogs_debug = Path(f'{Path.home()}\\small-projects-python\\logs\\coinlogs.txt')
 logging.basicConfig(filename=coinlogs_debug, level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 guess = ''
