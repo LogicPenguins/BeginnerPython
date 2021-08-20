@@ -28,7 +28,7 @@ def convert():
                 values_list.append([])
                 for column_num in range(current_sheet.max_column):
                     cell_value = current_sheet[f'{get_column_letter(column_num + 1)}{row_num + 1}'].value
-                    values_list[row].append(cell_value)
+                    values_list[row_num].append(cell_value)
                 
             wb.close()
 
