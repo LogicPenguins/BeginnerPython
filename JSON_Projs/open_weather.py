@@ -3,8 +3,8 @@
 
 import json, requests, sys
 
-APP_ID = '52256977b478266fe4566c10602a34ab'
-errttt = 'a667f2396d0a0f1eb4cf59255ec0ea1b'
+APP_ID = 'Insert_ID_Here'
+
 
 # Computer location from command line arguments.
 if len(sys.argv) < 2:
