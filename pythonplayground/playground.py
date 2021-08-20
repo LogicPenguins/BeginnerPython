@@ -1,17 +1,14 @@
-import openpyxl
+#! python3
+# This is a loading screen lol
 
-wb = openpyxl.Workbook()
+import time
+import os
 
-sheet = wb['Sheet']
+blank = '█'
 
-c5 = sheet['C5']
-
-
-sheet['C5'] = 'Hello'
-
-print(sheet['A1:F1'])
-
-
-wb.save('Lol.xlsx')
-
-368
+for i in range(100):
+    print('|', end='')
+    print(f'{(i * blank)}', end='')
+    print('|')
+    time.sleep(0.000001)
+    os.system('cls')

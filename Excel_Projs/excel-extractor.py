@@ -13,13 +13,13 @@ import time
 import logging
 
 # Initializing logging text file
-log_file = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\logs\\excel-extractor-logs.txt'
+log_file = f'{Path.home()}\\small-projects-python\\Excel_Projs\\logs\\excel-extractor-logs.txt'
 logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Gets input from user on which excel-spreadsheet to extract from
 print('What excel spreadsheet would you like to extract from? ')
 file_to_extract_from = pyip.inputStr('File: ', timeout=60)
-ftef_modified = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\{file_to_extract_from}.xlsx'
+ftef_modified = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\{file_to_extract_from}.xlsx'
 
 # Gets input from user on which sheet in given excel-sreadsheet to extract from
 print('What sheet would you like to extract from? For default sheet, input NONE.')
@@ -56,7 +56,7 @@ print(coordinate_value_dict)
 # Gets input from user on which excel-spreadsheet to extract to
 print('What excel spreadsheet would you like to extract to? ')
 file_to_extract_to = pyip.inputStr('File: ', timeout=60)
-ftet_modified = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\{file_to_extract_to}.xlsx'
+ftet_modified = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\{file_to_extract_to}.xlsx'
 
 # Gets input from user on which sheet to extract to in given excel-spreadsheet
 print('What sheet would you like to extract to? For default sheet, input NONE.')

@@ -11,12 +11,13 @@ import time
 file1 = pyip.inputStr('File: ', timeout=60)
 sheet_to_open = pyip.inputStr('Sheet: ', timeout=60)
 
-file1_path = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\{file1}'
+file1_path = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\{file1}'
 
 # Loads given workbook to invert from.
 wb1 = openpyxl.load_workbook(file1_path)
 main_sheet1 = wb1[sheet_to_open]
 
+# Creates empty list to later store spreadsheet cell values in.
 values_list = []
 
 # Each outer list in values_list will be a column, each inner list containing a value in respective column.
@@ -31,7 +32,7 @@ time.sleep(1)
 wb1.close()
 
 file2 = pyip.inputStr('New File Name: ')
-file2_path = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\{file2}'
+file2_path = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\{file2}'
 
 print('Opening new spreadsheet...')
 time.sleep(1)

@@ -21,4 +21,4 @@ for row_num in range(2, sheet.max_row):
         sheet.cell(row=row_num, column=2).value = PRICE_UPDATES[produce_name]
 
 
-wb.save(f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\updated_produce_sales.xlsx')
+wb.save(f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\updated_produce_sales.xlsx')

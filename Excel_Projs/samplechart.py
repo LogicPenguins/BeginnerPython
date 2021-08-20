@@ -27,4 +27,4 @@ chart_obj.append(series_obj)
 
 sheet.add_chart(chart_obj, 'C5')
 
-wb.save(f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\sampleChart.xlsx')
+wb.save(f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\sampleChart.xlsx')

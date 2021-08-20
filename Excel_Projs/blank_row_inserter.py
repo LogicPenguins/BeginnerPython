@@ -13,7 +13,7 @@ if len(sys.argv) == 4:
     
     start_row = int(sys.argv[1])
     blank_cells = int(sys.argv[2])
-    excel_file = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\{sys.argv[3]}'
+    excel_file = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\{sys.argv[3]}'
 
     wb = openpyxl.load_workbook(excel_file)
     sheet = wb.active

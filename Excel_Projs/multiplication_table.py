@@ -44,7 +44,7 @@ if len(sys.argv) == 2:
 			coordinate.value = value
 	
 	# Creating path for file to be saved in. Path will vary for different systems.
-	file = f'{Path.home()}\\small-projects-python\\Excel_Mini_Projs\\xlsx_files\\multiplication_table_{num}.xlsx'
+	file = f'{Path.home()}\\small-projects-python\\Excel_Projs\\xlsx_files\\multiplication_table_{num}.xlsx'
 	wb.save(file)	
 	print(f'Saved as {os.path.basename(file)}.')
 else:
