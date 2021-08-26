@@ -1,5 +1,7 @@
-python_value = {'isCat': True, 'miceCaught': 0, 'name': 'Zophie', 'felineIQ': None}
+def random_sentece(person):
+    print(person + ' is idiotic, but not as idiotic as Ahraz.')
 
-import json
-string_of_json_data = json.dumps(python_value)
-print(string_of_json_data)
+
+person_input = input('Person: ')
+
+random_sentece(person_input)

@@ -1,14 +1,12 @@
-#! python3
-# This is a loading screen lol
-
+import threading 
 import time
-import os
 
-blank = '█'
+print('Start of program')
+def spam(person):
+    time.sleep(4)
+    print(f'{person} never dies.')
 
-for i in range(100):
-    print('|', end='')
-    print(f'{(i * blank)}', end='')
-    print('|')
-    time.sleep(0.000001)
-    os.system('cls')
+spam_thread = threading.Thread(target=spam, args=(['Technoblade']))
+spam_thread.start()
+
+print('Program finished praising the king.')
