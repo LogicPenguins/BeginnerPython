@@ -45,3 +45,20 @@ The [zipproj](https://github.com/Xmexy/beginnerprojects/tree/main/zipproj) is a 
 ## Excel Projects
 
 The [Excel_Projs](https://github.com/Xmexy/python-beginner-projects/tree/main/Excel_Mini_Projs) is a collection of projects based around the openpyxl module, using OpenOffice as my harbor for Excel SpreadSheets. 
+
+## CSV Projects
+
+The [CSV_Projs](https://github.com/Xmexy/python-beginner-projects/tree/main/CSV_Projs) is a collection of projects that utilize .csv files and are based around programs that use these files for converting, transferring and interpreting data, whether it be turning the data into an excel spreadsheet, vice versa, or using it to remove headers and testing out features of the csv module in Python.
+
+## JSON Projects
+
+The [JSON_Projs](https://github.com/Xmexy/python-beginner-projects/tree/main/JSON_Projs) consists of essentially projects based around the same idea as the [CSV_Projs](https://github.com/Xmexy/python-beginner-projects/tree/main/CSV_Projs) folder. Containing mini-projects that have to do with .json files. 
+
+## IMAP Projects
+[imap_projs](https://github.com/Xmexy/python-beginner-projects/tree/main/imap_projs) is a folder that includes projects which utilize the imapclient module in Python, as well as some utilizing the imaplib. The IMAP module, for those who are unaware, is a module that is used to process emails such as reading and deleting, through certain emailing sites (yahoo, google, etc).
+
+## SMTP Projects
+Considerably similar to the [imap_projs](https://github.com/Xmexy/python-beginner-projects/tree/main/imap_projs) folder, the [smtp_projs](https://github.com/Xmexy/python-beginner-projects/tree/main/smtp_projs) folder contains programs utilizing the SMTP module in Python. The SMTP module, for those who are unaware, is a module that is used to send emails through certain emailing sites (yahoo, google, etc).
+
+## Text Projects
+The [text_projs](https://github.com/Xmexy/python-beginner-projects/tree/main/text_projs) is a folder containing projects that utilize the twilio client to send text messages to mobile devices. Twilio is a service for programmatically sending and receiving text msgs through features such as SMS. A very cool Python module and very convenient for setting personal reminders for yourself.

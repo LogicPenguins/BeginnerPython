@@ -1,9 +1,12 @@
 #! python3
 # Prints the current weather for a location from the command line.
 
-import json, requests, sys
+import json
+import requests
+import sys
+import os
 
-APPID = 'a667f2396d0a0f1eb4cf59255ec0ea1b'
+APPID = os.environ.get('openweather_appid')
 
 # Compute location from command line arguments
 if len(sys.argv) < 2:
