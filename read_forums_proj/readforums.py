@@ -8,7 +8,7 @@ from pathlib import Path
 url = 'https://www.minecraftforum.net/forums/minecraft-java-edition/discussion'
 
 # Creates directory to store threads in Minecraft Java Discussion Forum (may have to update Path for personal needs)
-os.makedirs(f'{Path.home()}\\VSCPythonProjects\\read_forums_proj\\forums_thread_data', exist_ok=True)
+os.makedirs(f'{Path.home()}\\small-projects-python\\read_forums_proj\\forums_thread_data', exist_ok=True)
 
 print(f'Reading {url}...')
 all_threads = requests.get(url)

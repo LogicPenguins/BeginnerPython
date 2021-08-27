@@ -6,8 +6,13 @@ import requests
 import sys
 import os
 
-APPID = os.environ.get('openweather_appid')
+#! python3
+# Prints the current weather for a location from the command line.
 
+import json, requests, sys
+
+APPID = os.environ.get('openweather_appid')
+print(APPID)
 # Compute location from command line arguments
 if len(sys.argv) < 2:
     print('Usage: quickweather.py city_name, 2-letter_country_code')
@@ -22,8 +27,11 @@ response.raise_for_status()
 # Load JSON data into Python variable.
 weatherData = json.loads(response.text)
 
+# Uncomment to see the raw JSON text:
+#print(response.text)
+
 w = weatherData['list']
-print(f'Current weather in {location}:')
+print('Current weather in %s:' % (location))
 print(w[0]['weather'][0]['main'], '-', w[0]['weather'][0]['description'])
 print()
 print('Tomorrow:')
