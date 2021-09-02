@@ -1,12 +1,62 @@
-Thread Title: Minecraft Java Edition 1.18 Experimental Snapshot
-Thread Author: Alexaicoo_7
+Thread Title: I calculated my total Minecraft playtime. Intresting storytime;
+Thread Author: hawgaming
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Minecraft is continuing on the long road to Part Two of the massive Caves and Cliffs Update, and that means a long list of Minecraft: Java Edition snapshots testing new features, changes, and improvements for 1.18 Caves and Cliffs Update Part Two. Before ordinary snapshots start arriving, however, Mojang Studios is testing major world generation changes through unique "Experimental Snapshots," which require a ton of extra work to install and test. Minecraft: Java Edition 1.18 Experimental Snapshot 3 is now available with lots of tweaks over the previous release.
-Minecraft: Java Editions Experimental Snapshots aren't available like other snapshots are, and promise to give players access to the latest in-development features for Minecraft, often at the expense of lots of bugs and known issues. Experimental Snapshot 3 follows Experimental Snapshot 2 with a ton of tweaks and changes, as well as a handful of new known issues. Players who are interested in being on the frontlines of Minecraft community testing and don't mind getting their hands dirty can download and test the snapshot now
-More info: (Link in my profile website link)
+Hi. 
+
+So after big thinking i finally found out when i started playing. And my best calculation is: 2nd half / end of 2012.
+How do I know this?
+
+> End of summer 2012: Beta 1.7 debute (that was my first version i played on) and I clearly remember I was most active in the Minecraft Youtube (I subbed for most of the OG Minecraft channels that time) in the middle of 2013.
+> I also remember playing 1.4.7 (what was the version what i the longest played)
+> I also remember switch to 1.5.(something) because my favourite Minecraft server was in that version
+> I also remember switching to 1.12.2 because of the same reason.
+
+So if I remember well, i played the most in 1,4,7 because one of my favourite Hungarian creator made her playtrough in that, and i played in the same time as her.
+
+So, if i calculate I first got my hands on the game in the 2nd half/end of 2012, that mean I play this game for over 9 years.
+That mean if I just! played 1 hour each day, I played 3800 hour. (And yeah I played more, bc i remember playing 5 hour, when me and 2 friends was on a server in 1.4.7)
+So if we calulate with a daily 3 hour avarage (what isnt that impossible) that is 9855 hour
+
+Maybe a bit more, maybe a bit less bc xmas, summer holyday, exams etc
+
+i would say between 9-10k HOUR!
+
+Sorry for my garbage english, i am not that good in it.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TheMasterCaver
+Post: 
+
+I actually have the stats for most of the worlds that I've played on (including the worlds themselves), which total over 7,400 hours since early 2013 (about 8 1/2 years ago):
+World1                     165.80 days  3979.20 hours  1129 sessions (3.52 hours/session)
+TMCWv1 (replayed*)          42.56 days  1021.44 hours   284 sessions (3.59 hours/session)
+TMCWv4                      38.95 days   934.80 hours   243 sessions (3.85 hours/session)
+TMCWv3                      15.83 days   379.92 hours   104 sessions (3.65 hours/session)
+InfiniteCaves (recreation)  15.62 days   374.96 hours   122 sessions (3.07 hours/session)
+World1v2                     8.57 days   205.68 hours    73 sessions (2.82 hours/session)
+TripleHeightTerrain          8.25 days   198.00 hours    53 sessions (3.74 hours/session)
+World1v3                     7.27 days   174.48 hours    59 sessions (3.08 hours/session)
+TMCWv2                       5.62 days   134.88 hours    52 sessions (2.59 hours/session)
+
+Total                      308.47 days  7403.28 hours  2119 sessions (3.49 hours/session)
+
+*TMCWv1 (original)          14.72 days   353.28 hours   103 sessions (3.43 hours/session)
+(replayed started from 11.32 days / 83 sessions)
+These are the current stats for World1, my first world, which I play on between periods spent on other worlds and mod development; I do not AFK for any reason so the time accurately represents my playtime (likewise, mob kills mostly represents natural mob spawning as I do not use mob farms, or kill farm animals other than around 200 chickens per repair of my sword (using a slightly worn sword is necessary for it to cost less than 40 levels under the pre-1.8 repair system), which gets around 3124 mob kills; my playstyle revolves around caving for fun):
+
+
+I've had several other worlds not listed, mainly very early on; one was a Survival Island world (seed "Notchiswithus" in 1.5.1, or up to 1.6.4, Large Biomes. Interestingly, the only source for this seed on Google other than my own posts is a YouTube video from March 2013 which still has less than 2000 views, which must have been where I found it), another was a custom map called "Stratosphere Survival", plus a few minor worlds, such as one where I explored the (then) largest known cave system, which I found with a search program I made, as well a copy of my first world I modded with my own mod, TMCW (I do still use mods on this world but not terrain/biome altering mods like TMCW, thus I refer to it as "vanilla").
+
+You may note the footnote for TMCWv1; this is because I'd originally deleted many of my old worlds but when I later came across an old backup I decided to keep them, including TMCWv1, which had not been backed up after I'd stopped playing on it, thus I lost several days of progress, and I decided to play on it again at least until I'd played on it as much as before (which turned out to be far more), so the total playtime on this world is really 45.96 days. Likewise, InfiniteCaves was completely recreated from scratch as it had no known backup kept (this was my first truly modded world with 2x the vanilla 1.6.4 cave generation and "amethyst armor/tools" and "backpack" mods), with the original world having around 7 days of playtime, which together adds around 10.4 days of playtime to the total.
+
+In terms of yearly playtime, 2017 likely has the most playtime of any year that I've been playing, with 52.82 days (1267.68 hours) spent playing nearly every day, mainly since I spent very little time on mod development (this year has been the opposite, with most of the year so far spent on mod development; however, I do not consider this to have not been playing with the game, just not "normal" Survival world gameplay, so this easily adds another thousand hours or more to my total "Minecraft time").
+
+Also, here are renderings of all of the worlds I have; except for World1 all of them are modded, first with changes to the underground (more/bigger caves/deeper ground), then to overall world generation (TMCW); the worlds named "World1v#" all used the same seed but had a different underground, as did InfiniteCaves (Large Biomes with spawn point manually changed) and TMCWv1 (only the general land/ocean map is the same):
+
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

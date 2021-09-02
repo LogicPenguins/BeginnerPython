@@ -1,186 +1,28 @@
-Thread Title: Mojang is slacking Notch used to update way faster and he’s 1 person
-Thread Author: CheekyDrizzt
+Thread Title: I heard about Veteran Capes
+Thread Author: MonxTheDemon
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Why does mojang take so long to update when notch used to update every week? He’s only one person and they are hundreds, also mod creators make way cooler stuff so much faster, so what’s mojang’s deal?!
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: toydotgame
-Comment: 
-
-
-Notch worked on one version of the game for one OS on one platform. Now the game is written in two versions at once, on tons of OSs, and on nearly every platform. It's a lot harder work to make one thing work for everything. It takes time.It takes time to find what would be a "good feature." Otherwise, the game ends up being ruined.
+Uhh so I heard about Veteran capes coming out and I just wanted to know if when they come out is it only for when you joined on Java because on an xbox account, on my xbox 360 I used to use my dads email but I used to play so if it's allowed to like check when the account started playing minecraft cause it's an xbox account I think the mojang people can see join dates but it was on the account MetalLyric710
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Brixie
-Comment: 
+Reply By: webrosc
+Post: 
 
-quite simply because the updates are bigger
-For example most of notches Secret Friday updates only added one or two new features.
+I assume you mean the migrator cape, you need to have owned minecraft java prior to them announcing migration of accounts to MS to be able to get one.
 
-1. 1.17 (The biggest update yet) Added Hundreds of new features and bug patches. Further more programming is not easy, I only know the most basic of coding languages and it's incredibly hard to make a working game
-
-2. As @ToyDotGame said, it takes time to create a good feature, if Mojang rushes an update and adds a poor attribute to the game it could potentially
-
-A: Corrupt save files
-
-B: Ruin progression
-
-C: Break the game
-
-in conclusion, updates must be thought out and programmed carefully otherwise they could potentially not be an update but a downgrade.
-
-I don't think it's fair in any way to say the Mojang team are "Slacking"
+ONLY thse who migrate their java account will get it, no console players will as they won't be migrating a java account
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: waxenorchid811
-Comment: 
+Reply By: JayCubTruth
+Post: 
 
-Notch didn't develop nearly as much as Mojang is. Notch only introduced very few features nor were the features very intricate. Mojang is now updating the 'lazy' terrain and cave generation that's plagued Minecraft for a decade with some competent stuff, so it's no wonder it's taking so long.
+I got the orange cape on bedrock and it's ugly. Now I play java tho.
 
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: TheMasterCaver
-Comment: 
-
-As a modder I know how long it can take not just to implement features but implement them properly; for example, I spent about two weeks on adding a fish mob, including a texture, model, AI, bucket mechanics, and a new spawning system - and that's just a single generic "fish" based on the original "fish" item, not all the variants that 1.13 has (granted, adding even 2700 "variants" of tropical fish would be relatively easy since the game simply combines 2 shapes and 6 patterns in one of 15 different colors for each, and otherwise most of the code can be reused by additional fish mobs).
-
-Likewise, even a relatively simple change as adding uncarved pumpkins as an obtainable block/item required a lot of code changes and testing to make sure that e.g. mobs only spawned with/could wear/be created with carved pumpkins, and crops and recipes used the appropriate variants, especially since I also merged pumpkins and jack o' lanterns into a single block (this brings up another point - a substantial amount of the work that I've been doing has been on refactoring code, not adding new features, which is also true of vanilla development).
-
-Similar to Mojang, I've also put off releasing a major new update since it would completely break compatibility with older worlds due to all the changes I've made to block and item IDs and variants, and otherwise world generation is completely different, so much like 1.17 and 1.18 I released an intermediate update which added many of the new non-world generation features, but even when I do release it older worlds will not be compatible (I made it so the game can't even see worlds it didn't create), while Mojang will almost certainly go through the trouble to make sure that older worlds can be updated, just as they always have, including when 1.13 completely changed block IDs and the save format (I considered doing something similar at first but when you consider that all items in inventories/entities/tile entities need to be updated as well, not just blocks placed in the world, and everything requires adding a "data version" tag, it quickly becomes very complex. Indeed, Mojang's "datafixer" is a major source of performance and resource issues since 1.13 and it will only worsen as they keep trying to support worlds at least as far back as 1.2, covering hundreds of data versions - at some point they should just block off old worlds unless a standalone tool is used to update them; of course, they will still need to update and test it with each new update).
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: oCrapaCreeper
-Comment: 
-
-Updates come out slower now because there is more work being put into them. Minecraft isn't a game developed by one man and his friends anymore, it's effectively a AAA force under Microsoft's budget and expectations. They have entirely fleshed out development teams and bigger ambition for the game. More budget and more people being put into the game means features take longer to put in, but are better quality than before. Putting features in half finished, which is something Notch loved to do, is not something that can be done with the game anymore. That slid in alpha/beta, and after release when Minecraft was still effectively just an indie game, but things are a lot different now. It's good for the long term of the game though.
-
-The result is still more meaningful and quality updates that change the game in more ways then we have seen before. I mean have you even seen 1.18? Even the last couple years of updates have had the most radical changes in the games history with Microsoft's cash suppy and support.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: CheekyDrizzt
-Comment: 
-
-I get it now, thanks guys.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: bobisgod
-Comment: 
-
-coding sucks I am learning and I can barely print hello world
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: Jyn
-Comment: 
-
-far more complex to make stuff for bedrock and java at the exact same time.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: MrRuNNy
-Comment: 
-
-Because Notch knew what to do... He had ideas he had talent on creating things and he had time, Good Notch invested all time to this legendary game. He's the true developer of all games.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: allyourbasesaregone
-Comment: 
-
-The stakes were lower and there was less content, so adding a few small things seemed like more back then than it does now.
-
-If you want all your updates the size of 1.6, 1.10, or 1.12, then yes, it is doable to have 3 updates in 2 years. Otherwise, you have to be patient. I think one a year is plenty given all the world and server carryover troubles.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: waxenorchid811
-Comment: 
-
-Quote from MrRuNNy»
-Because Notch knew what to do... He had ideas he had talent on creating things and he had time, Good Notch invested all time to this legendary game. He's the true developer of all games.
-
-
-Notch barely added anything to Minecraft nor was he incredibly good at implementing things competently. Minecraft was stagnant for most of its alpha and beta - you may not see it behind the nostalgia but it was a fairly poor game.
-Quote from oCrapaCreeper»
-The result is still more meaningful and quality updates that change the game in more ways then we have seen before. I mean have you even seen 1.18?
-
- Thanks to Notch, we had to wait a very long time for the world gen between all 3 vanilla dimensions to be de-boringified.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: TheMasterCaver
-Comment: 
-
-Quote from waxenorchid811»Thanks to Notch, we had to wait a very long time for the world gen between all 3 vanilla dimensions to be de-boringified.
- What does Notch have to do with any of this? They pretty much stopped working on the game by its official release nearly 10 years ago - it took that long for the current development team, led by Jeb, to do what modders did even back in Beta, if not even more (Cubic Chunks) - this is why I couldn't care less about 1.18 ("but surely the caves interest you?" Not when I've been modding them myself for nearly 8 years. More varied terrain is interesting, yes, but 200+ block tall mountains everywhere? No way, which is why I increased terrain variation but nothing like Amplified, and set y=192 as the height limit for terrain; likewise, I made mods that made the ground up to 192 blocks deep but prefer 64 blocks).
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: DOOM_Possum
-Comment: 
-
-hmm, He must be busy, reading all The FEEDBACK, He put in some amethysts to MINECRAFT, or geodes whatever at the bedrock layer i think, there's plenty of PACKS in The (STORE), too, that are created and updated, like the Fairy Addition, and Space Adventure Travel
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: TCPNick
-Comment: 
-
-To be fair, Notch was developing the game from the ground up and experimenting with ideas rather than deciding what to add to an already fully realized game. As for the amount of content added, the most recent update adds far more content and polish than Notch could ever add by himself without taking as much time as say Dwarf Fortress, a game developed by one person alone. To release a decent update in the case of something like Dwarf Fortress, an update with as much content as Minecraft's most recent update can take years to be rolled out.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: kingcobra12656
-Comment: 
-
-It doesn't suck :/ You're just not having fun learning it 
-
-string fun = "FUN";
-Console.WriteLine($"Hello World, Coding is {fun}!")
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: kingcobra12656
-Comment: 
-
-What about the new mobs? Are you going to add them in?
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: kingcobra12656
-Comment: 
-
-Notch barely added anything to Minecraft?! You wouldn't be here if not for him..... xD
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: FINTonza
-Comment: 
-
-Quote from kingcobra12656»
-Notch barely added anything to Minecraft?! You wouldn't be here if not for him..... xD
-
- Well... Most of the stuff we have on the game now has been added after Notch sold Mojang and Minecraft to Microsoft, so... He kinda didn't add that much to the game. And most of the stuff he added were on extremely small updates.
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: SuntannedDuck2
-Comment: 
-
-I agree things are different now. Many platforms, many ideas, complex systems being changed past just 'why is there so few features on the bullet point list' compared to the reality of the situation and what goes into those things. I agree modders do a better job with 1 to 5 people or the community being bigger than Mojang so we have more content available or teams that make APIs quicker than it takes an update to come out but that's just the way things are for any game. Modders are hobbyists not developers tied to typical meetings, deadlines, many departments talking between each other and whatever else goes on (along with the outside of the game contributions they make as well).
-
-While I think 1.17 could have been handled better just like 1.13 and 1.14 (the command and game restructuring) could have Game Developers always do this where features/updates get too ambitious and they have to rework/rescale things. How many games have we seen due to publishers requests, certain things not working right and so on. I was surprised world gen was even implemented to the extent it was in 21w14a before they removed it in 21w15a in favour of datapacks and obviously we have the 1.18 experimental snapshots. I think they messed up there, besides pouches were working but they removed those features too sigh. I would have been happy if they left world gen for 1.18 and gladly they did but even besides the fact they want 2 update per year I think they didn't think 1.17 through that well. I'm always glad when we see a 1.15 like update to fix all the bugs as I feel even if the pre-releases and snapshots can and other updates do the strict bug fix updates do a good job.
-
-Notch got as much as possible out for 1 person and those that did contribute like with the removed mobs (Human, Rana, Steve, etc.). The seecret friday updates, maybe redstone (unless more were on board then I don't know). Either way different times, nostalgia and so on (I wasn't around for the game there but I understand why). The game is doing great now regardless of 'AAA" expectations Mojang is doing the same as I'd assume any game developer is good or bad. Sure I don't like everything they do about the game but it's a game I still would play often, can't say that about a lot of games.
+Capes are sacred, I remember notch used to give out capes only for insanely few people. The best cape ever is still the first MineCon cape, the red one. Was it 2013?
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

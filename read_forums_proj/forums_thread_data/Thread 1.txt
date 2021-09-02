@@ -1,12 +1,31 @@
-Thread Title: Looking for a plugin...
-Thread Author: Itachi001
+Thread Title: How will 1.18 interact with worlds created in 1.17.1(question-mark)
+Thread Author: JarkB
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-I don't know if what I'm asking for exists but here I go anyway. I'm looking for something like a "dryad" plugin where I'm forced to stay in proximity/stand on wood logs to live. I would need to expand my tree and create "roots" in order to expand where I could travel.
+I am wondering if anyone knows whether updating to 1.18 when it eventually releases will update the world height of old worlds? As it stands a world in 1.17 has a world height that ends at y=0, and I understand usually when new world generation is added worlds can be played and new biomes/structures can be found in unexplored chunks. However, will a change that affects the entire world work the same way?
 
-If anyone knows something like this please let me know.
+Any insight would be appreciated.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Wobbler2010
+Post: 
+
+I am 99% sure that the world will automatically increase the depth and height. Along with that it will generate more ores in the extended depths. There is a ore 1.18 chart of where they will spawn if you want to find out more about that. 
+
+Because unexplored chunks only update in most updates. This is different in 1.18 and the whole world will update.
+
+I hope I have helped,
+Wilbur 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: scorrp10
+Post: 
+
+Most likely case, in a 1.17 world converted to 1.18, already generated chunks will be filled below Y=0 with bedrock.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

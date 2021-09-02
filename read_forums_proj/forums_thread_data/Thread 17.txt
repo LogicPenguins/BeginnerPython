@@ -1,17 +1,26 @@
-Thread Title: Have a question about transfering data.
-Thread Author: zebo102
+Thread Title: the people are gone from the village. how do i replace them(question-mark)
+Thread Author: conditioner
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-So I have two devices I play on, on device A. I have a world I care about and when I got device B I logged into my minecraft account to see that the world isn't there. How can I get my world on device A. to go to device B?
+the pilligars attacted when i was selling stuff to the villager. now all the people are gone from the village. is it possible to repopulate. i have another village with people. can i increase that population and then try to get some to travel to th4 town without villagers???
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Caztron
-Comment: 
+Reply By: JayCubTruth
+Post: 
 
-What kind of devices are they? Console, mobile or PC?
+Yes, if you bring more villagers into the empty village, they will settle there. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: scorrp10
+Post: 
+
+Looks like you triggered a raid. If you kill a pillager captain (one with banner) you get Ill Omen effect. Entering a village with this effect triggers a raid. Next time after you fight pillagers, drink a bucket if milk before going to a village.
+
+You also can't get villagers to just travel from their village. You have to forcefully transport them via boat or minecart. Even once transported, it might have to confine transported villagers so they cant leave their new village until they start using its beds/workstations.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

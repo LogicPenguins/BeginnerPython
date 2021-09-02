@@ -1,42 +1,66 @@
-Thread Title: Master Fisherman wont unlock some if his trades
-Thread Author: ellyama
+Thread Title: Migration to Microsoft
+Thread Author: LoRaM
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Minecraft java 1.17
-My Master Fisherman is in a trading Hall. He has had 3 trades now that have been locked for days. 
-I've no idea what to do. I've tried removing his barrel and replacing it. Nothing
-All his other trades are still open tho. 
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: Palin
-Comment: 
-
-Have he access to a bed? Can he trace his path to a bed that it's not used by other villagers? The best way to answer is trying to visiting the villager at night time and see if he can go to sleep. He needs to sleep to get back his trades.
+If you don't have a cell phone prepare for a very involved migration!!!
+It was far easier for me to get a Top Secret security clearance than it was to move from Mojang to Microsoft! 
+I do/will not ever have a cell phone. I have encountered similar problems with other service providers but never to the extent, I went through with Microsoft and Minecraft. 
+I hope maybe I made someone at Microsoft see the light because I wouldn't wish what I had to go through on the most cantankerous Officer I ever dealt with. 
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: ellyama
-Comment: 
+Reply By: sunperp
+Post: 
 
-Trading hall villagers don't need beds. They are just for trading. Mine all have their work stations. They are all Masters. Beds are for villagers to breed.
-They are also visible to the other villagers on either side because they like to gossip. 
-
-I appreciate your input though. 
+I just migrated two Minecraft accounts and didn't need to use my cellphone for either one. It just emailed me the verification code to my original email accounts that my Minecraft accounts were tied to. The only trouble I ran into was trying to use an old Firefox browser -- I ended up having to move over to a newer version of Chrome before the migrations were successful.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Palin
-Comment: 
+Reply By: webrosc
+Post: 
 
-Quote from ellyama»
-Trading hall villagers don't need beds. They are just for trading. Mine all have their work stations. They are all Masters. Beds are for villagers to breed.
-They are also visible to the other villagers on either side because they like to gossip.
+When I migrated my accounts I had to use my phone, but that's because I set up ms 2fa to use an authentication app for security, migration will only require your phone if your 2fa is set that way
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: LoRaM
+Post: 
+
+You have a cell phone! You are not over 70 years of age, with bad eyesight, hands that constantly shake, and you can touch type!
+Until today I could copy and paste passwords for Microsoft! Suddenly today I cannot open my 128-bit encrypted document; copy a password; go to Microsoft and paste what I have copied there!
+IMO a HUGE part of the security problem Microsoft (and everyone else) is encountering is because of these types of requirements on their part!!!
+The people writing the log-on procedures were born with a cell phone in their crib!!! They never get off their collective bottoms to ensure what they write does not require something that not every person on planet earth has!!!
+No one can stop anyone else from doing something stupid! People write simple passwords like "password" or "123456" because it is easy to remember and fairly simple to type. Then they use that password for everything that needs a password!
+I prefer 16-20 character passwords that utilize ANY KEYBOARD KEY and by writing them to my encrypted document I don't need a fantastic memory!
+If I can copy and paste them; I don't need typing skills, good eyesight, or an infallible memory: and I can have 3 pages worth of never duplicated passwords!!!
+Stows soapbox and hopes some people see the light!!!
+
+A question just came into my thoughts; are the text messages sent to and from your cell phone encrypted when sent over the air or can anyone open it and read what you sent and what was returned to you.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Ultrons
+Post: 
+
+I haven't migrated yet, is it that excruciating? I don't want to give out my phone out to them either.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: LoRaM
+Post: 
+
+Quote from Ultrons»
+I haven't migrated yet, is it that excruciating? I don't want to give out my phone out to them either.
 
 
- That's what's on the wiki. But in my experience not being able to go to sleep is a major reason for not restocking. Expecially on servers where the normal day/night cycle is skipped most of the times (villagers restock twice a day but if you skip the night something occurs and most of the time the restock does not happen).
+Please read and implement my encrypted password idea.
+I'm serious about 3 pages of encrypted passwords. I only have to remember the password that decrypts that document.
+HTH
+Lou
+Norton has (probably others too) an encryption utility. I used it constantly. 
+My telephone is wired (landline) it cannot receive texts of any kind. 
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

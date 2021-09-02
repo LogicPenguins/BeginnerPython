@@ -1,17 +1,420 @@
-Thread Title: Minecraft.net.Mojang Login Site offline(question-mark)
-Thread Author: Moduartor
+Thread Title: zombies spawning on mushroom biome - not all monsters, just and only zombies - no spawner found.
+Thread Author: Lefty_Dextrous
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-I wanna login to minecraft.net, but everytime the server is connecting to my profile, the site crash. Do you also experience this error and if so, for how long?
+So, I live in mushroom biome. Other than drowneds, phantoms + raid once with bad omen + few monsters on ther opposite side of island with ocean biome on ground of where I live I never saw any monsters other than in 3 cases.
+
+
+
+case I saw 9 or more zombies kinda in the middle of mushroom island, co caves nearby, nothing. (3rd of November)
+
+case was after being AFK in my base waiting for netherite screp to burn, then in the morning hearing and seeing zombies burning to sun. This was also kinda in the middle, near 1st case. -> 3 or more zombies. (5th of November)
+
+thirth case was today, after putting sea grass to my pond, I saw 2 zombies in front of my enterance. (15th of January)
+
+
+
+I live on this place for more than year (found screenshot of february 2020 when I was already living there for long time). Thats the only 3 cases of zombies spawning on mushroom island. I decided to make backup of this world with those 2 zombies being alive. This is my backup. i also made screenshots each time it happend. This is folder with screenshots -> not edited, original screenshots -> I only copyed them to separate folder. (In some screenshots, you can see grass instead of mycelium. That is placed by hand, not generated - seed is visible in ojne of the screenshots.)
+
+
+
+
+
+What the hell is going on? Why are there zombies spawning in mushroom biome, but nothing else than zombies. Why did it not happed before November 2020, after year of living there?
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2020-11-05_18.27.19
+
+
+
+
+
+
+
+2020-11-05_18.26.57
+
+
+
+
+
+
+
+2021-01-15_14.03.28
+
+
+
+
+
+
+
+2020-11-03_19.12.44
+
+
+
+
+
+
+
+2020-11-05_18.27.12
+
+
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: TileEntity
-Comment: 
+Reply By: Hexalobular
+Post: 
 
-Test it with another browser or with another device (mobile phone)
+Very impressive builds!
+
+All I've found is one red surface coral that is in the ocean biome, the one with the torch on it in my screenshot.
+That doesn't really seem like it would be enough to spawn so many zombies at once though it could certainly explain why it happened so seldom, at first I thought that as long as the center of the pack was in an allowed biome that the rest could spawn on the shore but the Wiki seems to say that once the system tries to spawn a pack member outside the biome of the pack center the spawning ceases.
+As for the timing there was an update on the 27th of October though it doesn't sound like anything relevant was changed.
+
+Btw, I found 2 more zombies in the save file, way up high near the spawning tower.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-01-15_16.36.40
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+Very impressive builds!
+
+All I've found is one red surface coral that is in the ocean biome, the one with the torch on it in my screenshot.
+That doesn't really seem like it would be enough to spawn so many zombies at once though it could certainly explain why it happened so seldom, at first I thought that as long as the center of the pack was in an allowed biome that the rest could spawn on the shore but the Wiki seems to say that once the system tries to spawn a pack member outside the biome of the pack center the spawning ceases.
+As for the timing there was an update on the 27th of October though it doesn't sound like anything relevant was changed.
+
+Btw, I found 2 more zombies in the save file, way up high near the spawning tower.
+
+
+
+Thanks!
+
+That one spot could explain those 2 zombies today, but they cant explain those other spawn, as way up there is pretty difficult and they all would not go there together. 
+
+near spawning tower... you mean like inside that mob trap, or...?  If not in but nearby, I want to know where exacly 
+
+Also, I appreciate that time you took for this! Thanks!
+
+I didn't even knew they can spawn on coral blocks.
+yeah, and, someone mentioned it could be "zombie siege", but I don't think so... 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Hexalobular
+Post: 
+
+I meant on the flat mountain top closest to the spawner, see pic.
+There were actually 4 there, plus the 2 that were attacking you.
+2 of the ones up top went down the mountain rather quickly, I only saw the 4 I saw this time (instead of 2) because I flew up there right away after switching to creative mode. So, yes, it seems unlikely they would have started at the shore, gone up and then down.
+It seems more likely that they all spawned up the mountain and those first 2 were the quickest to make it down.
+
+I changed the time to midnight as soon as I ran the save, I think the zombies up top were on fire when I found them the first time.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-01-15_20.01.50
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: whatever673
+Post: 
+
+If there is a village on the island that could explain why they are spawning since zombie sieges happen but if not I have no idea how they would spawn
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Hexalobular
+Post: 
+
+You ought to have noticed a village and you don't seem to have enough villagers to start a seige.
+
+It doesn't seem very likely either, but is there any way they could be coming up via your railroad, either in the cart or climbing the stairs under the track?
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+I meant on the flat mountain top closest to the spawner, see pic.
+There were actually 4 there, plus the 2 that were attacking you.
+2 of the ones up top went down the mountain rather quickly, I only saw the 4 I saw this time (instead of 2) because I flew up there right away after switching to creative mode. So, yes, it seems unlikely they would have started at the shore, gone up and then down.
+It seems more likely that they all spawned up the mountain and those first 2 were the quickest to make it down.
+
+I changed the time to midnight as soon as I ran the save, I think the zombies up top were on fire when I found them the first time.
+
+
+
+
+
+There is spawner somewhere?  idk about that  Or do you mean mob trap? That second spawn was almost exacly in this place as you showed that screenshot -> I saw burning zombie from storage standing at the edge, then went up by water elevator, other zombies were at this location. So it is second time here. Interesting
+Quote from whatever673»
+If there is a village on the island that could explain why they are spawning since zombie sieges happen but if not I have no idea how they would spawn
+
+
+
+
+
+Well, I transported around 12 villagers in total, 9 of them alive now. I had some cat spawns as in village (or at the time of last zombie spawn) Wiki says, there has to be 20 of them + they can't spawn on mushroom biome (Don't forget, that grass was mycelium -> it is mushroom biome, I changed it to grass myself.)
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+You ought to have noticed a village and you don't seem to have enough villagers to start a seige.
+
+It doesn't seem very likely either, but is there any way they could be coming up via your railroad, either in the cart or climbing the stairs under the track?
+
+
+
+
+
+Well, you got good idea with that, but... do they spawn on track? They don't even want to go on it... So I don't think they would be able to create path from spawnable area over rails to get up. I had creeper locked in there yesterday and he never went to me bcs of rails. (posted screenshot, after he almost blew up bcs I did not noticed him -> he never moved from this location) Also, I don't think it's natural monster spawn bcs I never saw any skeleton, creeper etc, only zombies (If I don't count teleporting endermans in the past.)
+Yeah, and minecart is never going alone, even if, I don't think it would be strong enough to go (as it is slower without player)
+
+
+another idea I got is... idk name of it, but when I kill zombie, another can spawn to help. As spawn once happend after being AFK long time (so I did not attack anything), I kinda eliminated this too. (I was thinking about killing drowned, then normal zombie spawning or something like killing zombie in nether (in nether bcs of another zombie spawning when they are not supposed to spawn :D))
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-01-14_22.16.06
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TheNoobNerf
+Post: 
+
+Possibly a remnant of some kind of mod.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Hexalobular
+Post: 
+
+Lookie what I found!
+Roundabout -300/68/4389
+
+And zombies do seem to be able to find their way out when I spawn them on the tracks.
+I haven't seen anywhere obvious where they could get onto them on their own.
+Yeah, I meant the darkroom mob farm.
+Villagers don't spawn, per se, except with the chunk when it is created, they can probably breed in any biome but there shouldn't be any around except the ones you have transported/cured and they don't seem to have access to food or breeding partners.
+
+As I understand it mobs won't spawn on tracks or willingly step onto them but once they are on them, being pushed or stepping off a higher block perhaps, there's nothing stopping them from walking on them.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-01-15_23.22.04b
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from TheNoobNerf»
+Possibly a remnant of some kind of mod.
+
+ Never had any mod in this world other than optifine or labymod back on 1,12 version.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Hexalobular
+Post: 
+
+And a skeleton!
+When I first saw him he was about where the creeper was, but even closer to the shore.
+So I checked around the shoreline and found where he came from.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-01-15_23.42.32
+
+
+
+
+
+
+
+2021-01-15_23.46.20
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+Lookie what I found!
+Roundabout -300/68/4389
+
+And zombies do seem to be able to find their way out when I spawn them on the tracks.
+I haven't seen anywhere obvious where they could get onto them on their own.
+Yeah, I meant the darkroom mob farm.
+Villagers don't spawn, per se, except with the chunk when it is created, they can probably breed in any biome but there shouldn't be any around except the ones you have transported/cured and they don't seem to have access to food or breeding partners.
+
+As I understand it mobs won't spawn on tracks or willingly step onto them but once they are on them, being pushed or stepping off a higher block perhaps, there's nothing stopping them from walking on them.
+
+ Well, theres nothing I know of why they would be pushed to rails. maybe if there was more mobs on that block again.
+
+Creeper? wow  But I thinik it's just few blocks in ocean biome where anything can spawn, but I never go there, I neither went there in any case of that spawning, so unless I'm close enough to that location whiler being in storage and close enough while being in that water I got in front of main enterance, I don't think it could be caused by that. I just never went that back. 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+And a skeleton!
+When I first saw him he was about where the creeper was, but even closer to the shore.
+So I checked around the shoreline and found where he came from.
+
+
+that lake I was in while last zombie spawning is like -240 Y 4311 or more -> coords of that spawning -312 Y 4388 -> What is spawning distance?  I know less than this bcs 128 blocks is despawn, but I wanna know  So yešah, there is spot where anything can spawn. Im going to fix it right now, but thats still not answer for that bcs of that big distance, right?
+
+Found 3 blocks in total, including that you found, all nearby, where was ocean biome. Reoved them.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Hexalobular
+Post: 
+
+Quote from user_100238426»
+. Im going to fix it right now, but thats still not answer for that bcs of that big distance, right?
+
+ Probably not, zombies in particular will attack players within 40 blocks but only if they have seen you.
+They will go for villagers within 42 blocks even if they can't see them but your villagers seem to be further away than that? But I don't know jhow far a zombie can wander before they lock up.
+I'm not sure I've seen all of he villagers but apparently once a zombie has targeted a villager they don't attack anything else till they've killed the villager or been attacked, I'm not absolutely certain but I think the zombies went for me before I'd attacked them?
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Quote from Hexalobular»
+Probably not, zombies in particular will attack players within 40 blocks but only if they have seen you.
+They will go for villagers within 42 blocks even if they can't see them but your villagers seem to be further away than that? But I don't know jhow far a zombie can wander before they lock up.
+I'm not sure I've seen all of he villagers but apparently once a zombie has targeted a villager they don't attack anything else till they've killed the villager or been attacked, I'm not absolutely certain but I think the zombies went for me before I'd attacked them?
+
+
+
+
+
+
+Even if they can't see villagers, they attack? wow  I did not know that. (but it kinda makes sence if I think about that) I got villagers in 2 places, -258 63 4308 is enterance (not the piston one, but those gates) for selling sticks (-260 Y 4320 neares to that place), then if you go through piston door all the way to the back, on the left (nearest to that place is -292 Y 4314) (spawn of monsters is -312 Y 4388) well, this is still best reason I ever had to why there are zombies...  This looks like it could be it.
+
+70/20(one is Z, one is X) blocks to nearest possible villager, then 80/40 blocks away from me... (I wanna say more blocks away from me, but I wanna go with option best for zombies.)
+
+Edit, just noticed last part, they definetly can and will change to attack you instead of villager. With that 1 zombie I have with name tag, I was using to "kill" villagers, I had to be out of his eyes whole time, or he would stop attacking that villager even if he had no access to me. (and just saw me) 
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: user_100238426
+Post: 
+
+Oh wow, it has been an long time since it happend before, but it happends again! This time, I was long, long time hunderts of blocks away, then came by nether portal, put banner near my banner area by my bubble elevator (whitch is in direction where I had possible monsters spawning months ago), fly with elytra to my main enterance, put some mess to storage, went to clean mob farm drops, turned around, saw no zombies but glow squid, killed it, went back on land and saw in total 14 zombies. (Never had chance to screenshot all of them at once, it may be even 15, but I am not 100% sure about it) This one is pretty strange, as I was looking at the area where zombies were just abourt minute ago or less while going to put banner there, then later I think I would see them before I went to kill glow squid just like 10 seconds before...
+
+
+
+Edit after searching internet a lot:
+
+After reading wiki, there is kinda hidden another way of possible spawning that is not under "spawning", whitch is Reinforcements. Only on java on hard difficulty, they can even spawn instead of call already existing mobs. As this spawning location is near both sea where both axolotls and drowned can spawn and mob trap (whitch was existing in those cases before), there is already reason for reinforcement whitch can spawn more mobs. it can be up to 40 blocks away, but it has to be only at least 7 blocks away from player and light level lover than 9. As light level at night and player distance are not problem at any point, they probably just spawned when I was killing glow squid this time. Sadly, wiki does not say anything about how many or where it can spawn, but...
+
+After searching internet a lot about it, I now think thats it is in fact the real thing that is hapenning whole time, as some sources, especially this shows that they can spawn almost everywhere, on bedrock, on stuff like redstone, in mushroom biomes too, in end, in nether... So for me to fix it, I would have to light area both from sea and from mob trap to distance of 40 blocks away to light level higher than 9 to prevent reinforcement spawning, as there is probably no other way of preventing that, as it looks like spawning mechanics of reinforcements are just really bad.
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-08-22_17.58.08
+
+
+
+
+
+
+
+2021-08-22_18.17.14
+
+
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

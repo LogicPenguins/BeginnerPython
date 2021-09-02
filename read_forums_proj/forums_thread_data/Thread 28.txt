@@ -1,37 +1,32 @@
-Thread Title: Is sandduping in Minecraft considered as cheating(question-mark)
-Thread Author: marcraft_gaming
+Thread Title: New Textures
+Thread Author: Minecraft_fan_Pl
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-I am currently working on a netherite beacon in my hardcore world. I have an insanely fast gunpowder farm and the only thing keeping me back now is sand. Now my quistion is, do you guys think sandduping is cheating because I want to make a yt video about it and don't want people to accuse me of cheating. (I have currently 30 subs so asking my subscribers isn't really an option)
-
--.-.-.-.-.-.-.-.-.-.-.-.-.
-
-Reply By: webrosc
-Comment: 
-
-on a server yes as it gives an advantage over others, in single player its only cheating you, so upto you if it is cheating or not
+I'm completely aware I'm several years late to this, but I haven't played Minecraft for a while, and so there's a lot of stuff that I missed. What happened with the textures? I honestly can't figure out which ones are better. On the one hand, the old ones are more iconic, but on the other, the new ones look more clean. I can't decide whether I like the character of the old textures, or the clarity of the new ones. What do you guys think?
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Agtrigormortis
-Comment: 
+Reply By: OmniGlitcher
+Post: 
 
-Anything that circumvents the normal mechanics of the game is cheating
 
-so yes, duping items illegitimately in vanilla survival is cheating.
+What happened with the textures?
 
-There are ways to get infinite amounts of sand without cheating, but you have to do it in trades,
-otherwise it is a finite resource, I believe I've mentioned this before about natural sand in Minecraft worlds
-in other threads before.
+Back in 2018, Mojang hired a pixel artist called Jasper Boerstra (JAPPA). When something is added to the game, the programmers make initial textures for it (this was the original process) and these are included in the 'Programmer Art' pack, then JAPPA comes in and refines the textures for use in the default Minecraft pack.
 
-Why would you need to do this though? deserts have enormous amounts of sand,
-and if for some reason that isn't enough and you don't want to migrate elsewhere,
-make a cropfield to stockpile on emeralds from trades, then use a surplus of those emeralds
-to get sand from wandering traders, and glass from Villager trades to supplement your glass needs.
 
-Problem solved.
+What do you guys think?
+
+I personally prefer the Programmer Art, something about the newer textures just looks weird to me. Obviously which one you prefer is down to you though.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Lefty_Dextrous
+Post: 
+
+I generally play with the old ones too, since they have a lot more character. I appreciate Jappa's effort though, and might try making a texture pack that mixes them together. Shouldn't be too hard, just replace the ones I want. Also might tone down the spots on oak wood, they are a bit weird.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

@@ -1,10 +1,43 @@
-Thread Title: No ender dragon in end but has crystals
-Thread Author: minehackercraft
+Thread Title: Help with code for removing air pockets from items such as brewing stands
+Thread Author: siyonkart
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Hello , I have been playing my hardcore world recently , when I went in the end , there are end crystals , but there is no ender dragon , the bedrock portal didn't appear either , when i tryed to use creative and summon the dragon , didnt work as well , is there a way to fix this ? I also tried to delete the DIM1 folder which is the end folder and put the end files that has dragon , but nothing happened , i also tried to upload into different multiplayer server like aternos and minehut , none of them work , using 1.17.1 , please help !
+I would like to remove the effect, shown in the image attached below, from items like brewing stands, beds, doors, gates, etc. so that the items act underwater as though they're in water- instead of as in air.
+I tried copying from the video below, but it doesn't seem to work for me and the link in the description doesn't work.
+Does anyone know of a way to do this in java 1.17?
+
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+Underwater Bed Woes
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: DuhDerp
+Post: 
+
+Beds can already be waterlogged, when they are waterlogged they prevent you from sleeping the night away. The rest would have to be modified through datapack or mod, because Mojang (wisely?) decided to only implement waterlogging for certain blocks.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: BigGayDisaster
+Post: 
+
+It's a creative build anyways- just for fun and to show off to friends some ideas
+I'd just like to remove the overlay that gives the air pocket effect over certain blocks, but can't seem to find anything pre-made or figure out how to get it to work myself :^)
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

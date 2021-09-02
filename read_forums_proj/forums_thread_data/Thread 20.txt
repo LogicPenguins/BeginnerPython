@@ -1,24 +1,37 @@
-Thread Title: (backwards-slash)Silence Me(backwards-slash) tag not working
-Thread Author: ellyama
+Thread Title: On what should I turn on maximum fps
+Thread Author: DaiNidanKo
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Minecraft Java 1.17
-I've used it to silence a tamed cat, but it still makes sounds. 
-No idea why it's not working
+So I recently got a game pc, and I still use my old monitor which has 60 ghz. So would it be good to set my max fps to 60 fps?
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Tails1
-Comment: 
+Reply By: DuhDerp
+Post: 
 
-Quote from ellyama»
-Minecraft Java 1.17
-I've used it to silence a tamed cat, but it still makes sounds.
-No idea why it's not working
+Yes, a 60ghz monitor will not be able to display 120 fps so any component work that is in fact generating 120fps will end up with half the frames uselessly being discarded.
 
- That's not a vanilla feature. You're either using mods or data packs. 
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: toydotgame
+Post: 
+
+For energy consumption reasons, yes; I would recommend keeping an fps limit of 60 if you have a 60 Hz monitor.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Agtrigormortis
+Post: 
+
+Quote from DuhDerp»
+Yes, a 60ghz monitor will not be able to display 120 fps so any component work that is in fact generating 120fps will end up with half the frames uselessly being discarded.
+
+ and if the frame rate is out of sync with the monitor it will result in tearing, monitors with gsync or freesync on a compatible graphics card will deal with this problem, but as toydotgame said if the frame rate is allowed to exceed your monitors max it's a waste of electricity.
+
+if using an Nvidia graphics card keep the power management in adaptive mode.
+Nvidia's software is good at only using the GPU's max state if its ever needed by the application you're running.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

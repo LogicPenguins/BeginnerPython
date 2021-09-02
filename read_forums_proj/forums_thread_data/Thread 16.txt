@@ -1,21 +1,28 @@
-Thread Title: Would you think that opening a new server nowdays is worth it and which version I should choose(question-mark)
-Thread Author: kleesup
+Thread Title: Trying to Figure Account Set Up for More Than One Child
+Thread Author: chaskuchar1
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Do you think opening a custom written minecraft server (Factions) in 2021 is worth it?
-
-And when yes, would you choose 1.8 OR 1.17/1.16? 
-
-Thanks for every answer/opinion I can read 
+Hi,
+Parent of two boys here. We bought Minecraft for PC a while back for my older son and did it through the PC he uses. He plays often and with friends. Now my younger son has been playing - on an iPad through the app or on his PC but logged into my older son's account with a different gamertag. Now, my younger son wants to be able to add friends. Can we do this with the current set up we have or do I have to buy Minecraft again? If I do have to buy it again, that's fine but can I use the same email address I used for the first purchase for the older son or do I need to use a different email address? 
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
-Reply By: Caztron
-Comment: 
+Reply By: webrosc
+Post: 
 
-To answer "is it worth it" we kinda need to know your objectives. What's your metric for "worth"? Why would you start the server; what are you looking to get out of it? Money, friends, etc
+if you want 2 ingame names you need to buy the game 2 times with separate logins
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: scorrp10
+Post: 
+
+Quote from blueyesbru»
+...or on his PC but logged into my older son's account with a different gamertag. 
+
+ Pretty sure your gamertag is tied to your account. I would double-check exactly how and what version of MC does your younger son play on his PC. I wonder if you bought MC back when you could get a free copy of Bedrock (Win10 MC) and your younger redeemed that copy.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

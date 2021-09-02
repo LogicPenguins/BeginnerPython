@@ -1,27 +1,21 @@
-Thread Title: Transferring Save Files
-Thread Author: Fr3ak5h0w
+Thread Title: How to i make a corrupted mc world then play on it(question-mark)
+Thread Author: Ttviforgotmypassword7
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Hi everyone, I'm Mike and I have a question:
-
-I created my first MC world and I've been working on it for days, only to realize I created it on my daughter's account. Is it possible to create my own account and transfer that saved world from her account to mine so that I can continue working on it on my own account?
-
-Thanks in advance - 
-
-Mike Fr3ak5h0w
+So I saw som about a corrupted world a few hours ago and I've had one before but I lost the world when I updated to the newer version and I want to get another.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
 
 Reply By: TileEntity
-Comment: 
+Post: 
 
-On Minecraft Java you can find your saves at:
+In most cases, it is one or more chunks broken - the latst.log often shows which block/item/entity or chunk is affected
+With NBT editor tools, you can remove blocks and chunks
 
-C:\Users\NAME\AppData\Roaming\.minecraft\saves\
-
-If you change your account, the save location keeps the same
+Updating a world to a newer version should not break your world - for older versions, the launcher asks for creating a backup of your world
+To find out more, you have to take a look at the crash-report or latest.log
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

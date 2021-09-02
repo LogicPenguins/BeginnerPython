@@ -1,12 +1,19 @@
-Thread Title: Great video
-Thread Author: MinecraftDonny
+Thread Title: Updating from 1.0 to 1.17 by version(question-mark) (Is it possible)
+Thread Author: SylverSword
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-Hello guys,
-Check out this great video about herobrines!
-Link Removed
+I have an idea for a video series and I'm going to go from 1.0 version of minecraft to 1.17 by version. So from 1.0 to 1.1 to 1.2 etc. Anyways I'm wondering if it is even possible and what are some versions that might break it?
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Badprenup
+Post: 
+
+As far as I'm aware this should be possible, I don't remember any version where they specified that you could not update worlds from one version to the next.
+
+Of course, you can always just make a backup of the world and try it yourself. That would be the easiest way to get an answer. 
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

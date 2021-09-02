@@ -1,10 +1,256 @@
-Thread Title: What would a crossover between minecraft and animal crossing look like(question-mark)
-Thread Author: Catstep
+Thread Title: Microsoft's recent move with the account migration PROVES they want to merge Bedrock & Java
+Thread Author: MegaMac
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-It would have a minecraft-themed NPC. But what else?
+Let me explain.
+
+Everybody here knows (or almost everybody) that Microsoft will force Java players to migrate their Mojang accounts to Microsoft accounts by 2021. They have passed it as being "more secure" and used a cape as the carrot-on-the-stick to motivate people to migrate.
+This is absolutely terrifying for a multiple of reasons, that I'll do my best to explain so that everyone get my point.
+
+So first there is the migration. We don't have any infos concerning the process as it will be revealed later, and for me that's already a red-flag. This means their idea isn't put into place at all or not in its entirety yet, which means we can expect bugs, crashes and general disfunctions to occur. This in itself is already pretty bad, because imagine losing your minecraft account because of some bug or glitch in their migration system. And saying that it will be "more secure" when we don't have any other infos outside "you will have a cape" and quirky "oh we know it's hard ask us about our imaginary coffee beans of our office" I'd say this alone is pretty bad, but there's way more.
+
+Then, there's what this migration implies, because by migrating your account you become at the mercy of Microsoft's system, its possible security flaws and other things. It won't be safer to have your account on Microsoft's server or Mojang's server, although 2FA can help it's not fool-proof.
+
+And there's the control we give Microsoft over our version. Because 1.17 is going to be such a big update, and we can expect later updates to be huge as well, it would make more sense to have one unified version so everybody can get the update easier and at the same time. I believe it's not a question of "if" but "when", because since 2015 and the selling of Mojang to Microsoft I've always had this fear of Microsoft getting its grip on the Java edition. Because Java players represent 25 million consumers they don't get any revenue upon. Because most Java players will never step foot on the Bedrock edition and thus will never buy skin packs, map packs, Microsoft-approved mods and whatever else they sell on their Marketplace.
+
+I may sound pessimistic or even like a conspiracy-theorist, but they're DEFINITELY going in that direction, they said it themselves on the Minecraft website "we have more things coming down the line", which means they PLAN for more integration with their pre-existing environment. And you may say I'm nuts or going too far, but I'm almost certain that by 2021 EOY - 2022 we will see microtransactions inside the Java edition. They will do whatever they can to integrate the Java edition into the Bedrock environment, and since Hypixel has already sold-out his player base saying it was a "good thing" it's only a matter of time until they monetize Java players just like Bedrock players.
+
+"But danko, we can choose skins in Bedrock and we have all the features and" I don't care. I want to be able to choose whether I want to play Java edition or Bedrock edition, and I don't want those versions to be the same to the point they're almost identical. This move is the first step towards a merging of Java and Bedrock, because Java players are 25 million consumers they can't sell their garbage on their stores.
+
+I'm also looking into EU consumer law to see if any of this is even legal, because I'm tired of greedy corporations getting into videogames and trying to monetize its players.
+
+Thank you for reading.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Pirateboy04
+Post: 
+
+The point of it is to enable the use of features that Microsoft accounts have, like 2FA, but Mojang accounts don't have. Additionally, it will make it possible to have a single launcher for Java, Bedrock (Windows 10), and Dungeons, as you'll only have to be signed in with the one account.
+
+I agree that the cape is a carrot and making it mandatory after a few months is a stick, but I genuinely think this is a good decision for security (just look at the forums here and see how many people have been hacked and want help here, despite Mojang being the only ones that can help with that). This will also help with account issues, as it will no longer rely on Mojang's customer support but Microsoft's.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TheMasterCaver
+Post: 
+
+The good thing is that older versions can't be affected, as stated by the EULA:
+But those changes will be effective only to the extent that they can legally apply. For example if you use the Game only in single-player mode and don't use the updates we make available then the old EULA applies but if you do use the updates or use parts of the game that rely on our providing ongoing online services then the new EULA will apply.
+
+https://account.mojang.com/documents/minecraft_eula
+All of this applies to me; I only play singleplayer, haven't updated past 1.6.4, and don't use any online services, not even skins (or capes) since the skin server that 1.6.4 used no longer works (this means that the cape offer is useless to me, and to have a skin at all I changed the default skin, so i can just as easily change if at any time if I wanted to), and I actually disabled all the online code (skins, realms, snooper, which I did so the game doesn't waste resources on failed attempts to connect and give off errors. While I did not disable the login (session ID) the game doesn't care if you are logged in in singleplayer; for a while the launcher didn't provide a valid session ID to older versions and I never noticed).
+
+What if the launcher stops working or no longer lets you play older versions (or modded versions, excluding official "mods")? No problem, as I already have the game downloaded and MCP, along with most of not all other mod development environments (e.g. MCreator and Forge; "You can install Forge MDK in any other IDE too and launch Minecraft test client without buying it too the same way as it happens in MCreator"), lets you play the full game in singleplayer without logging in (presumably, Mojang allows this since you need to install the game to use it, which requires an account, but it just copies the necessary files over. You can also play multiplayer but you need to modify the runtime arguments to provide a valid name/UUID and session ID, which again requires an account). There is even a legal ruling that allows you to hack a game to bypass an online login so you can continue playing it (singleplayer only, which is no problem for me, and Minecraft doesn't even need to be hacked since the actual login process is handled by a completely separate launcher (modding IDEs use a batch script to launch the game).
+
+Of course, many people made the same claims after Microsoft bought out Mojang in 2014, none of which came true (including continued claims that the game "declined", and only recently saw a "renaissance", while official player counts have steadily grown over the entire time since then).
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Alkimia
+Post: 
+
+I really feel like everyone is overreacting about this whole migration thing. I know Microsoft have done some shady stuff in the past, but remember, Mojang even said that the game would not change at all. Also why wouldn't players want to play on Bedrock? IMO both versions have their flaws and advantages, for me the main advantage of Bedrock is the fact that you can play across platforms, something I would like to have and one of the main reasons why I would like to get Bedrock in the future. Also I can't stand how everyone just immediately assumed we were going to get micro-transactions in Java edition. I feel like people are just paranoid. Another thing, what do you mean by
+
+"which means we can expect bugs, crashes and general disfunctions to occur"
+
+Microsoft isn't changing anything in the actual game, they're changing the way you log in. I'm sorry but I don't agree with anything you've said in this post. I've seen some people claim Microsoft have held their accounts in ransom and other just awful stuff. I really can't believe any of this unless I see solid evidence. This post is all speculation and theorizing and the migration isn't even here yet. I suggest waiting until it actually happens before we actually start theorizing.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: KaijuRizard3
+Post: 
+
+Kinda feels like people are just using MS as scapegoat.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: SuntannedDuck2
+Post: 
+
+The thing that confuses me the most is Mac & Linux users, what do they do in this situation? Is it the same as the PS4 version when it had MS account support. In short I'm on the fence, I do agree with security but I've never had any issues either, but I do see where people are coming from with control, money, a game merger and so on, as they are "possibilities".
+
+The theorises do seem possible but I don't really know what to think. While it is good for better security and 2FA is important (even though I hate the need to get my phone for it all the time and I know that's the point). And migration of accounts is sometimes necessary, it can also be a pain and like with big companies not all enjoyed Occulus Facebook account migration, or the MCForums & Twitch one we had to face.
+
+I won't deny that getting Java players to buy marketplace content compared to getting it for free from curseforge (besides behaviourpacks and more on mcpedl) or crossplay and other theorises are likely. Or merging into Bedrock as it's "THE MINECRAFT" and using datapacks for mods isn't that bad as many use them but at some point limitations and control set in and it's a pain. Like if we are forced to use it with 'AN OFFICIAL MODDING API' that Datapacks and Behaviourpacks are it won't be fun if there is a lack of possibilities to make plugins (possibly) compared to the fun I've had jumping from Forge to Fabric for particular reasons (I enjoy both, I'm not a Fabric only fan). Again can only 'theorise' not saying it will happen.
+
+I have Java & Bedrock but the need for it does have me half believe half not when it comes to what people have considered, especially since a cape isn't really that great of a 'reward' for migrating.
+
+Otherwise for third party launchers for those not interested Technic (which will be awkward) and a few others are players only options for using a new account and still getting the game legally, as MultIMC will follow with the account migration and that will be rough with how useful it is over the regular launcher.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: webrosc
+Post: 
+
+Quote from SuntannedDuck2»div class="quote-body">
+The thing that confuses me the most is Mac & Linux users, what do they do in this situation?
+-snip-
+
+ they login using the launcher like everyone else, OS doesn't matter as its just the account and login method thats changing
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: DeadTOm76
+Post: 
+
+Quote from SuntannedDuck2»
+The thing that confuses me the most is Mac & Linux users, what do they do in this situation? Is it the same as the PS4 version when it had MS account support. In short I'm on the fence, I do agree with security but I've never had any issues either, but I do see where people are coming from with control, money, a game merger and so on, as they are "possibilities".
+
+ I don't see what would change. The launcher will still run on Java, and authentication will still be done through that launcher, so I don't understand what the problem would be here. I play on Linux, and I don't foresee any issues here.
+
+Regarding "I do agree with security but I've never had any issues", this sort of attitude drives those of us in infosec absolutely nuts. Just because something hasn't happened, doesn't mean it won't happen, and the longer you go on using outdated forms of security, the higher your risk of getting compromised. 2FA should have been implemented years ago.
+
+The only thing that will make the Java version go away, is if Java itself goes away. Doing so would completely wipe out the mod community overnight, and alienate an absolutely massive portion of the Minecraft userbase. Microsoft is greedy, but not stupid. Granted, I don't trust Microsoft at all, but I do trust the staff at Mojang, and I'm perfectly comfortable taking their word that Java won't be going away, which Jens and others have repeated many times over the years.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Ptolemy2002
+Post: 
+
+Quote from DaiNidanKo»
+Then, there's what this migration implies, because by migrating your account you become at the mercy of Microsoft's system, its possible security flaws and other things. It won't be safer to have your account on Microsoft's server or Mojang's server, although 2FA can help it's not fool-proof.
+
+ Umm... yes it will. Not only through the presence of 2FA (which makes it inherently safer in the first place), but also through the fact that Microsoft is a company with very good security practices and account defense. Likely there won't be nearly as many stolen accounts or other account issues when it's managed by a giant company like that.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Alkimia
+Post: 
+
+Quote from Ptolemy2002»
+Umm... yes it will. Not only through the presence of 2FA (which makes it inherently safer in the first place), but also through the fact that Microsoft is a company with very good security practices and account defense.
+
+ Thank you! Lately I've been hearing more about stolen accounts, so I feel like this migration thing would be the best thing to secure peoples accounts. 
+It's nice to see some community members are taking this migration situation calmly. I think it's best to wait and see what happens before making any assumptions.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: eiche_brutal
+Post: 
+
+I welcome their move to increase account protection from hacking.
+
+The thing with the cape is a nice addition, many players can't visit minecons and would like to have one.
+But i don't understand why the cape backfired that hard.
+
+
+You've all seen the official announcement?
+
+
+
+That video wasn't a good move. Yes, they did explain everything,
+which is good BUT the way they portrayed their customers reaction is what i personally don't like.
+I felt like they want to indoctrinate me. Just put someone in front of a cam and let him explain the important deteils.
+That would have been enough.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Ptolemy2002
+Post: 
+
+Quote from eiche_brutal»
+I welcome their move to increase account protection from hacking.
+
+The thing with the cape is a nice addition, many players can't visit minecons and would like to have one.
+But i don't understand why the cape backfired that hard.
+
+
+You've all seen the official announcement?
+
+
+
+That video wasn't a good move. Yes, they did explain everything,
+which is good BUT the way they portrayed their customers reaction is what i personally don't like.
+I felt like they want to indoctrinate me. Just put someone in front of a cam and let him explain the important deteils.
+That would have been enough.
+
+ Perhaps it was a little exaggerated, but it's shockingly accurate to how things actually went down. I can't count how many times I've seen questions being asked about how this migration will affect the game even though Mojang couldn't make it more clear that the answer is "not at all." And people actually do not seem to care much about security, though I don't exactly see why they would care that much about a cape. It's almost as if this video successfully satirized the audience before they could even be sure what the audience would think. If they were purposefully trying to cause this reaction, then it's a pretty bad move since they literally just summoned a huge wave of opposition that theoretically wouldn't be there otherwise. I think the video was just designed to be fun and address the predicted concerns, but they might have nailed those concerns a little bit too accurately.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: eiche_brutal
+Post: 
+
+I think it was ment to calm children. That's most likely why they animated the whole thing.
+But people who suspect bad things from microsoft and don't watch it carefully / reflecting might not understand that.
+I realized it had a bad subconsciously effect on me. I had to rewatch it several times untill i understood why they made it like this.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: FirEmerald
+Post: 
+
+people saying this like it's microsoft's decision. news flash: this was a Mojang decision, Microsoft had nothing to do with it. Stop fueling the "MS wants to kill of JE" fake news train.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: DeadTOm76
+Post: 
+
+People just need to chill out, and listen to what the video actually said. Maybe start there, instead of reading the worst possible outcome into everything they see.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Alkimia
+Post: 
+
+Quote from DeadTOm76»
+People just need to chill out, and listen to what the video actually said. Maybe start there, instead of reading the worst possible outcome into everything they see.
+
+Quote from FirEmerald»
+people saying this like it's microsoft's decision. news flash: this was a Mojang decision, Microsoft had nothing to do with it. Stop fueling the "MS wants to kill of JE" fake news train.
+
+ ^^ Exactly! We all need to stay calm and wait to see what happens in the next few months. I don't think much will even change. The community just assumes the worst will happen.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: silveroug2
+Post: 
+
+This migration implies nothing.
+
+If they wanted people to move to Bedrock, they would just stop updating the Java edition. I'm sure it would save them a lot of development time.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: BeSquareNinetyFour
+Post: 
+
+Quote from silveroug2»
+This migration implies nothing.
+
+If they wanted people to move to Bedrock, they would just stop updating the Java edition. I'm sure it would save them a lot of development time.
+
+ Gutting the Java Edition right away would draw a lot of attention. It would be easier to reduce the dominance of Java Edition gradually until nothing is left.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Frantic_Fanatic
+Post: 
+
+I have absolutely no reason to not do this. I already have a Microsoft account for bedrock Minecraft.
+
+But I still agree with the original poster that there is a bigger ploy to this than just account security. Don't get me wrong, account security is a bonus, and a welcome one at that. Afterall, many small companies team up with Google and/or Facebook in lieu of trying to set up their own authentication systems.
+
+However, I think what Microsoft is ultimately after is more user data. They already own the largest desktop operating system, which, by the way, all but forces you to make a Microsoft account now while installing new copies of Windows 10. (https://www.howtogeek.com/442609/confirmed-windows-10-setup-now-prevents-local-account-creation/) Now they can add the most popular game to that PII database as well. It's a far cry from being the biggest search engine/Ad supplier or the largest social media platform, but it's a start.
+
+It's been clear for years that Microsoft will no longer be able to make all of it's money just from Windows. That's why Windows 10 has been marketed as the last version of Windows, and why Windows no longer has severe penalties for not activating it. () With this source of revenue gone, they've had to turn to alternative monetization schemes in order to turn a profit.
+
+Is all this an indication that Java will be gutted/be monetized to Nether/will be combined into the Bedrock edition? Absolutely not. But there are roadsigns and red flags everywhere, and I'm not surprised that people don't have a good feeling about this, even if ultimately nothing comes of it. (And I sincerely hope nothing does!) 
+
+As a small aside, the announcement video wasn't too bad, but the website announcement (https://www.minecraft.net/en-us/article/java-edition-moving-house) was absolutely painful to read. It was a mix of extremely patronizing and "Go look at this shiny distraction." I know I'm not the target demographic, but it was just such cringe.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Princess_Garnet
+Post: 
+
+If there was a planned attempt to reduce the Java version, this is not likely part of it. This was feared in like 2015 when Microsoft bought Mojang too.
+
+I'm not too worried. If the Java version naturally nearly died out, will they pull the plug? Maybe (it's nowhere near this point, despite the Java version no longer being the most popular version). Would they probably prefer to develop for one version? Maybe. Would Microsoft rather have everyone on a version they can monetize more? Mayb... definitely. But for the last five or six years, I haven't seen them naturally trying to kill it, just improving Bedrock, and they know the majority of Java players probably aren't potential Bedrock customers, so I can't complain at how they've handled it by letting it be with a hands off approach, with Mojang continuing to develop it all the same.
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.

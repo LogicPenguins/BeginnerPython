@@ -1,12 +1,58 @@
-Thread Title: Help
-Thread Author: Survivor_tv_in_minecraft
+Thread Title: Woodland mansion
+Thread Author: Tfgc_Fishy
 
 --------------------------------------------------
 
-Comment: 
+Post: 
 
-How do I create a one block survival map but the one block respawns infinitely into different blocks and chests with things in them. Like from the unspeakablegame video
- Thank you,
-Survivor_tv_in_minecraft 
+Hi!
+Im looking for a woodland mansion in a server so I bought a map to a cartographer but when i go to it, there's nothing.
+Do you no why it isn't working??
+
+
+
+ATTACHMENTS
+
+
+
+
+
+
+
+
+2021-08-28_10.08.05
+
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TileEntity
+Post: 
+
+Try to find another cartographer and repeat it at another location
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Sharky28
+Post: 
+
+I tried it but it just gives me the same card with an other ID
+
+
+Also, this world was at first on 1.16.5 but we changed it in 1.17. May it be because of that?
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: TileEntity
+Post: 
+
+This can be the issue
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Reply By: Sharky28
+Post: 
+
+Ok thx! I will talk with the host
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.
