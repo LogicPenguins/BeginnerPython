@@ -198,15 +198,6 @@ if __name__ == '__main__':
                 print('Player 2 wins.')
             elif len(player1.all_player_cards) == 1:
                 print('Player 1 wins.')
-
-        if len(player1.all_player_cards) == 0:
-            print(f'Player 2 wins the game!')
-            game_going = False
-        elif len(player2.all_player_cards) == 0:
-            print(f'Player 1 wins the game!')
-            game_going = False
-        else:
-            pass
     
         print('────────────────────────────')
         round += 1
