@@ -1,1 +1,1 @@
-import pyauto
+for i in range (4): print ('Hi') ; print('Hello')

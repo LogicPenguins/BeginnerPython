@@ -121,7 +121,7 @@ turns_taken = 0
 while True:
 
     # X goes first. Handle X's turn. 
-    handle_ai('X', board)
+    handle_player('X', board)
     turns_taken += 1
     board_print(board)
     check_for_winner(board, 'X')
