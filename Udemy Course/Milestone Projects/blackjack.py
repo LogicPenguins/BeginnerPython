@@ -203,7 +203,6 @@ if __name__ == "__main__":
                 print('Dealer is thinking...')
                 time.sleep(3)
 
-            input('Lol')
             if player_win == True:
                 player.balance('w', bet_amount)
             elif player_win == False:
