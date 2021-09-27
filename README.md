@@ -1,4 +1,4 @@
-# Python Beginner Projects
+# Small Projects Python
 This is a collection of all the projects I have completed so far in my Python journey. This repository will be updated whenever a new project is added. Below will be a brief description of each folder. 
 
 ## Collatz Conjecture Project

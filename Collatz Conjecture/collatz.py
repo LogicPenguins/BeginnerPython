@@ -8,5 +8,5 @@ def sequence(num):
             modified_num += 1
     print(f'{num} failed the collatz sequence')
 
-for i in range(1000000000000):
+for i in range(1000000):
     sequence(i+1)
